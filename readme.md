@@ -1,7 +1,7 @@
 
 # OpenMW continue
 
-This utility starts openMW and loads the latest save
+This utility starts openMW and loads the latest save.
 
 By default it will look for the game in several paths and use the latest one.
 
@@ -30,6 +30,13 @@ the saves are in:
     %Userprofile%\Documents\My Games\OpenMW\Saves
 
 
-## Download
+## Download / installation
 
 - https://nexus.whateve.com
+
+from cli, if you have go instlled.
+
+    go install github.com/tox2ik/openmw-continue
+    openmw-continue
+
+
